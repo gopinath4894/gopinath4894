@@ -7,5 +7,5 @@
 - ⚡ Fun fact: ...
 
 
-gopinath4894/gopinath4894 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+gopinath4894/gopinath4894 is a ✨ special ✨ repository which appears on your GitHub profile.
+
